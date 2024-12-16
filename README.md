@@ -6,7 +6,7 @@ Welcome to my Front-End Development Portfolio! This repository showcases my proj
 ## Visit My Portfolio
 
 You can view my full portfolio at the following link:  
-[My Portfolio]([https://link-to-your-portfolio.com](https://my-portfolio-eight-liard-59.vercel.app/))
+[My Portfolio]([https://link-to-your-portfolio.com](https://my-portfolio-eight-liard-59.vercel.app/)
 
 ## Skills
 
